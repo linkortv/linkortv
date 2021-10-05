@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Hi, I'm Aleksey
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on big company
