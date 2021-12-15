@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Aleksey
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on big company
+- 🌱 I’m currently learning ruby(ror)
+- 💞️ I’m working in company that serves 50,000+ clients
 - 📫 How to reach me tvlinkor@mail.ru
 
 <!---
