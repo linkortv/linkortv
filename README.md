@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Aleksey
 - 👀 I’m interested in programming
 - 🌱 I'm currently a middle Ruby developer
-- 💞️ I’m working in company that serves 50,000+ clients
+- 💞️ I’m working in company that serves 60,000+ clients
 - 📫 How to reach me tvlinkor@mail.ru
 
 <!---
